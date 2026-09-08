@@ -1,6 +1,6 @@
 # My Python Project
 
-Simple project to demonstrate Git workflow.
+This is a Python project for learning Git branching.
 
 ## Installation
 1. Clone the repository
