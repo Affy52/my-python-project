@@ -1,6 +1,6 @@
 # My Python Project
 
-Simple project to demonstrate Git workflow.
+This is a demo Python project for Git workflow practice.
 
 ## Installation
 1. Clone the repository
