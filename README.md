@@ -1,6 +1,6 @@
 # My Python Project
 
-This is a Python project for learning Git branching.
+This is a Python project for learning Git branching, pull requests, and workflow practice.
 
 ## Installation
 1. Clone the repository
