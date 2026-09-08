@@ -3,11 +3,17 @@ def hello():
     print("Hello, World!")
 
 def greet(name):
+    if not name.strip():
+        print("Name cannot be empty!")
+        return
     print(f"Hello, {name}!")
 
 if __name__ == "__main__":
-    name = input("Enter your name: ")
-    greet(name)
+    try:
+        name = input("Enter your name: ")
+        greet(name)
+    except KeyboardInterrupt:
+        print("\nGoodbye!")
 from typing import List
 proverbs = [
     "Ум хорошо, а два лучше.",
